@@ -1,0 +1,10 @@
+{
+    "licenses": [
+        {
+            "key": "T800-DEMO-1234",
+            "mentor_id": "KONKE01",
+            "status": "active",
+            "type": "demo"
+        }
+    ]
+}
